@@ -3,8 +3,8 @@
 I'm a backend developer based in Tempe, AZ, focused on building full-stack Django applications with Python, HTML templates, and SQLite.
 
 ### Projects
-- **[Task Manager](https://github.com/bryonpeabody/task-manager)** – Create, edit, and manage daily tasks (CRUD)
-- **[Expense Tracker](https://github.com/bryonpeabody/expense-tracker)** – Log and categorize personal expenses
+- **[Task Manager](https://github.com/bryonpeabody/django-task-manager)** – Create, edit, and manage daily tasks (CRUD)
+- **[Expense Tracker](https://github.com/bryonpeabody/BudgetBuddy)** – Log and categorize personal expenses
 
 You can view these projects (and more as I continue building) in my [GitHub repositories](https://github.com/bryonpeabody).
 
