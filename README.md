@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there, I’m Bryon 
 
-<!--
-**BryonPeabody/bryonpeabody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer based in Tempe, AZ, focused on building full-stack Django applications with Python, HTML templates, and SQLite.
 
-Here are some ideas to get you started:
+### Projects
+- **[Task Manager](https://github.com/bryonpeabody/task-manager)** – Create, edit, and manage daily tasks (CRUD)
+- **[Expense Tracker](https://github.com/bryonpeabody/expense-tracker)** – Log and categorize personal expenses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can view these projects (and more as I continue building) in my [GitHub repositories](https://github.com/bryonpeabody).
+
+### In Progress
+Currently working on an **advanced Django project** that includes API integration, authentication, and testing.
+
+### Connect With Me
+[LinkedIn](https://www.linkedin.com/in/bryonpeabody)
+
+Thanks for stopping by!
